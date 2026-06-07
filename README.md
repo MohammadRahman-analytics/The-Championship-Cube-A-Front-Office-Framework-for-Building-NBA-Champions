@@ -1,1 +1,1 @@
-# The-Championship-Cube-A-Front-Office-Framework-for-Building-NBA-Champions🏀
+# The Championship Cube: A Front Office Framework for Building NBA-Champions 🏀
