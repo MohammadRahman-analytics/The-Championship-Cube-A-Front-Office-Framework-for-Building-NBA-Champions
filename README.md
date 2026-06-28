@@ -1,6 +1,4 @@
 # The Championship Cube: A Front Office Framework for Building NBA-Champions 🏀
-Author: Mohammad Rahman
-Institution: Royal Holloway, University of London
 Target Conference: MIT Sloan Sports Analytics Conference 2027
 
 ## Overview
