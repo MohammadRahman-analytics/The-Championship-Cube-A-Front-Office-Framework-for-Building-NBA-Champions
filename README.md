@@ -1,4 +1,4 @@
-# The Championship Cube: A Front Office Framework for Building NBA-Champions 🏀
+# The Championship Cube: A Front Office Framework for Building NBA Champions 🏀
 Target Conference: MIT Sloan Sports Analytics Conference 2027
 
 ## Overview
